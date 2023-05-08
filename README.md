@@ -1,7 +1,22 @@
 <h1>Easy Shopping</>
-  <br>
-  <br>
+      <br>
+      <br>
   
-  <h2>This is the project I learned and made for DevClub <a href="https://rodolfomori.com.br/devclub"</a> </h2>
+  <h2>This is the project I learned and made for <a href="https://rodolfomori.com.br/devclub"</a> DevClub </h2>
+      <br>
+      <br>
+      
+ <h3>Technologies made with:</h3>
+      <br>
+      <br>
+    HTML
+      <br>
+    CSS
+      <br>
+ <h2>Seen by Computer:</h2>
+      <br>
+      <br>
+ <h2>Seen by Mobile:</h2>
+    
   
   
