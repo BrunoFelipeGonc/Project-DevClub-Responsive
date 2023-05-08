@@ -16,7 +16,11 @@
  <h2>Seen by Computer:</h2>
       <br>
       <br>
+   <img src="https://github.com/BrunoFelipeGonc/Project-Responsive/blob/master/computer.PNG?raw=true">
  <h2>Seen by Mobile:</h2>
+       <br>
+       <br>
+       
     
   
   
